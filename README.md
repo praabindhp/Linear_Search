@@ -17,4 +17,6 @@ The User Will Be Prompted To :
 
     2. Enter Elements
 
+    3. Enter Number To Search
+
 The GCC File Also Have Been Pushed.

@@ -7,16 +7,14 @@ This Is A C-Program To Illustrate The Operations To Convert Infix To Postfix Eva
 
 The Operations/Error Illustrated :
 
-    1. Enter No. Of Elements
+    1. Searching via Index
 
-    2. Enter Elements
+    2. Element Search
 
 The User Will Be Prompted To :
 
-    1. Covert Infix To Postfix Expression
+    1. Enter No. Of Elements
 
-    2. Enter Your Expression
-
-    3. To Quit Enter Fullstop(.)
+    2. Enter Elements
 
 The GCC File Also Have Been Pushed.

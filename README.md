@@ -5,6 +5,8 @@ C is a general-purpose, procedural computer programming language supporting stru
 
 This Is A C-Program To Illustrate The Linear Serch Operation
 
+Linear search in C to find whether a number is present in an array. If it's present, then at what location it occurs. It is also known as a sequential search. It is straightforward and works as follows: we compare each element with the element to search until we find it or the list ends.
+
 The Operations/Error Illustrated :
 
     1. Element Search

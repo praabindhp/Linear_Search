@@ -7,7 +7,7 @@ This Is A C-Program To Illustrate The Operations To Convert Infix To Postfix Eva
 
 The Operations/Error Illustrated :
 
-    1. Searching via Index
+    1. Searching The Location (Index)
 
     2. Element Search
 

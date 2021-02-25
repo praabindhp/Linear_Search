@@ -7,11 +7,9 @@ This Is A C-Program To Illustrate The Operations To Convert Infix To Postfix Eva
 
 The Operations/Error Illustrated :
 
-    1. Stack is full
+    1. Enter No. Of Elements
 
-    2. Stack is empty
-
-    3. Exception Has Popped Up
+    2. Enter Elements
 
 The User Will Be Prompted To :
 
